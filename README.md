@@ -3,3 +3,5 @@ This is a supporting material for a poster presented at AGU: https://drive.googl
 Additional information on the choice of SFCCs for hydrogeological models, the sensitivity of these models, and tools for estimating SFCCs are available in the documents below.
 
 The repository of SFCCs used to extract data for this study can be found here: https://github.com/egdevoie/SFCCRepository
+
+This work is in collaboration with MSc student Audrey Woo, whose thesis can be found here: https://escholarship.mcgill.ca/concern/theses/44558k36w
